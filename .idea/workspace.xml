@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af0949ae-d834-4033-a5c5-5c63f6fe7fee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ProjectDB/MangerDB/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectDB/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectDB/template/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectDB/template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectDB/template/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectDB/MangerDB/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectDB/MangerDB/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectDB/MangerDB/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectDB/MangerDB/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectDB/ProjectDB/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectDB/ProjectDB/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectDB/ProjectDB/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectDB/ProjectDB/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjectDB/MangerDB/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -110,6 +102,18 @@
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -140,6 +144,7 @@
         <option value="$PROJECT_DIR$/ProjectDB/template/index.html" />
         <option value="$PROJECT_DIR$/ProjectDB/template/test.html" />
         <option value="$PROJECT_DIR$/ProjectDB/MangerDB/views.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -162,23 +167,6 @@
             <path>
               <item name="Project_Backend" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_Backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project_Backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjectDB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project_Backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjectDB" type="462c0819:PsiDirectoryNode" />
-              <item name="MangerDB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project_Backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_Backend" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjectDB" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -316,6 +304,16 @@
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
