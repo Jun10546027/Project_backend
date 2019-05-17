@@ -97,3 +97,7 @@ template/index.html:
 
 ![](https://i.imgur.com/L590TWD.png)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3892862b9539509d91fbb7c53b4b020d3236752b
