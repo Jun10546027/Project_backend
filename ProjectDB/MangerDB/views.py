@@ -1,12 +1,9 @@
-from django.shortcuts import render
-from django.http import HttpResponse
-from .serializers import data
+from django.shortcuts import render,get_object_or_404
 from .models import Item
-import json
 
 # Create your views here.
-def homepage(request):
-    homepage_title = 'My homepage'
-    items = Item.objects.all()
-    json_list = json.loads(data)
-    return  render(request,'index.html',{'web_title':homepage_title,'items_lists':json_list})
+def detail(request,post_id):
+    detail_title = 'Detail'
+    items = get_object_or_404(Item,id=post_id)
+    context = {'web_title':detail_title,'items':items}
+    return render(request,'detail.html',context)
